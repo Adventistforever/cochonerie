@@ -1,0 +1,23 @@
+package model ;
+
+
+/**
+ * Recherche d'un document
+ * <!-- begin-user-doc -->
+ * <!--  end-user-doc  -->
+ * @generated
+ */
+
+public class Interaction
+{
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!--  end-user-doc  -->
+	 * @generated
+	 */
+	public Interaction(){
+		super();
+	}
+
+}
+
